@@ -1,3 +1,3 @@
 # BCNjsonrpc
 
-library used in [https://t.me/BCNWalletBot](BCNWallet)
+library used in [BCNWallet](https://t.me/BCNWalletBot)
